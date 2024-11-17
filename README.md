@@ -1,5 +1,7 @@
 # Ex-01-Linux-Commands
 
+**Name** : Yuvaraj B<br>
+**Reg No** : 212222040186
 
 ## Aim:
 
